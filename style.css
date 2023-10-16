@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#character-info {
+    margin-bottom: 20px;
+}
+
+#character-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    margin-top: 10px;
+}
